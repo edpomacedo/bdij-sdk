@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# Arquivos de log
+logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos gerados na construção
+dist
+build
+
+# Configurações específicas do sistema
+.DS_Store
+Thumbs.db
+
+# Ambiente de desenvolvimento
+.env
+
+# Dependências locais
+.local
+
+# Arquivos de configuração do sistema
+.vscode/
+.idea/
